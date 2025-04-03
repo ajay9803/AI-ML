@@ -1,0 +1,6 @@
+2025-03-13 21:16:45-root-DEBUG-This is a debug message.
+2025-03-13 21:16:45-root-INFO-This is an info.
+2025-03-13 21:16:45-root-WARNING-This is a warning.
+2025-03-13 21:16:45-root-ERROR-This is an error.
+2025-03-13 21:16:45-root-CRITICAL-This is critical message.
+2025-03-13 21:16:45-root-DEBUG-Addition operation is taking place.
